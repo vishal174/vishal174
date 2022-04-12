@@ -1,0 +1,26 @@
+--------------------
+Date: 6:11:2021
+Time: 4:27
+Group_id: ERXWBIqNgEZKM6ltvRwa70
+Message: my project is ready
+--------------------
+Date: 6:11:2021
+Time: 16:31
+Group_id: ERXWBIqNgEZKM6ltvRwa70
+Message: our project is ready
+--------------------
+Date: 6:11:2021
+Time: 16:35
+Group_id: ERXWBIqNgEZKM6ltvRwa70
+Message: our project is ready
+--------------------
+Date: 6:11:2021
+Time: 16:39
+Group_id: ERXWBIqNgEZKM6ltvRwa70
+Message: project is ready
+--------------------
+Date: 8:11:2021
+Time: 21:48
+Group_id: ERXWBIqNgEZKM6ltvRwa70
+Message: one night before i could just wait for another 10-15 seconds
+--------------------
